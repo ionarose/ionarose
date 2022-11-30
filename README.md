@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ionarose
+👋 Hi, I’m Iona
 - 👩‍🔬 Medical scientist retraining as a full stack developer with School of Code
 - 🌱 Currently focusing on React and back end development
 - 🎨 Artist, musician, chess whizz 
