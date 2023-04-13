@@ -1,6 +1,6 @@
 👋 Hi, I’m Iona!
-- 👩‍🔬 Medical scientist retrained as a full stack developer by School of Code.
-- 🌱 Currently freelancing on a front end web development project.
+- 👩‍🔬 Medical scientist retrained as a full stack developer.
+- 🌱 Currently working as a React Developer.
 - 🎨 Artist, musician, chess whizz!
 
 Favorite Tech:
